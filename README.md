@@ -1,16 +1,7 @@
 # battery_level
 
-A new Flutter project.
+## A flutter app to demonstrate how to communicate with native API (battery-level-api) in android 
 
-## Getting Started
+### Using method channel in flutter, we can communicate/use native api in android/ios device to further expand the functionality of our mobile app
+![image](https://github.com/qawitherev/battery_level/assets/59358911/c736ec9d-1a53-4ec2-a363-d1482df8227d)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
